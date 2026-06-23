@@ -8,3 +8,9 @@ stackoverflow.com
 wikipedia.org
 netflix.com
 openai.com
+streamlit
+folium
+streamlit-folium
+pandas
+plotly
+requests
